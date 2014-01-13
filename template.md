@@ -1,34 +1,23 @@
-## Need
+#### [设备信息]
 
-```gherkin
-As a [role]
-I want [feature]
-So that [benefit]
+```
+设备信息
 ```
 
-## Deliverables
+#### [版本信息]
 
-```gherkin
-Scenario: [title]
-Given [context]
-  And [some more context]
-When  [event]
-Then  [outcome]
-  And [another outcome]
+```
+版本信息
 ```
 
-## Solution
+#### [步骤]
 
-#### Prerequisites
-- [required dependency for identifying the problem, scope and then solution for this issue]
+- [请对重现步骤进行描述]
 
-#### TODO
-- [logical step in completing this story]
+#### [结果]
 
-#### Files
-- [path to a file involved in this story]
+- [请对结果进行描述]
 
-#### Notes
-- [peculiar aspect relevant this story]
+#### [期望]
 
-#### #ETA [0-2]p
+- [请对期望值进行描述]
